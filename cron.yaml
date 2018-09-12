@@ -1,0 +1,5 @@
+cron:
+- description: "Update Calendar"
+  url: /weekly
+  schedule: every monday 00:01
+  timezone: Asia/Singapore
