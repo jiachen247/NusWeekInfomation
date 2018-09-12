@@ -1,4 +1,5 @@
 # NusWeekInformation
+nusnextbusendpoint.appspot.com
 
 ## Description
     A simple api to get week information from IVLE.
