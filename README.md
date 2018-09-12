@@ -1,4 +1,4 @@
-# NusWeekInfomation
+# NusWeekInformation
 
 ## Description
     A simple api to get week information from IVLE.
@@ -11,3 +11,4 @@
 
     1. Copy SecretTemplate.py to Secret.py and add IVLE credentials
     2. Deploy to Google App Engine (GAE)
+
